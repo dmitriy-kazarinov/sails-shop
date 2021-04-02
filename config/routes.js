@@ -34,7 +34,7 @@ module.exports.routes = {
 
   '/': {
     view: 'homepage'
-  },
+  }
 
   /***************************************************************************
   *                                                                          *
@@ -45,10 +45,5 @@ module.exports.routes = {
   * for configuration options and examples.                                  *
   *                                                                          *
   ***************************************************************************/
-
-  'GET /user': {
-    controller: 'UserController',
-    action: 'userInfo',
-  },
 
 };
