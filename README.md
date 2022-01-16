@@ -8,3 +8,11 @@ Run dev server
 Run debug
 
 `npm debug`
+
+Run test
+
+`npm test`
+
+Run test CI
+
+`npm test ci`
